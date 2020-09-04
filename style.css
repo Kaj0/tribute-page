@@ -61,7 +61,7 @@ div.words{
     margin-left: 50px;
     width: 60%;
 }
-p.words{
+h1.words,p.words{
     margin-top: 30px;
 }
 div.box3{
